@@ -1,0 +1,13 @@
+user_id,movie,genre,rating
+1,Inception,Sci-Fi,5
+1,Interstellar,Sci-Fi,4
+1,The Dark Knight,Action,5
+2,Inception,Sci-Fi,4
+2,Titanic,Romance,5
+2,Avatar,Sci-Fi,3
+3,The Dark Knight,Action,4
+3,Avengers,Action,5
+3,Iron Man,Action,4
+4,Titanic,Romance,4
+4,La La Land,Romance,5
+4,The Notebook,Romance,4
