@@ -11,3 +11,14 @@ user_id,movie,genre,rating
 4,Titanic,Romance,4
 4,La La Land,Romance,5
 4,The Notebook,Romance,4
+1,Avengers,Action,4
+2,The Dark Knight,Action,5
+3,Avatar,Sci-Fi,5
+4,Interstellar,Sci-Fi,4
+5,Inception,Sci-Fi,5
+5,The Matrix,Sci-Fi,4
+5,Avengers,Action,5
+6,Titanic,Romance,5
+6,La La Land,Romance,4
+6,The Notebook,Romance,5
+6,Inception,Sci-Fi,3
